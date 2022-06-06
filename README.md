@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manussicgupta
+- 👋 Hi, I’m @manussicgupta ( Manu Gupta )
 - 👀 I’m interested in Data Science,Python Devlopment,Web Devlopment...
 - 🌱 I’m currently learning more new technologies in these fields to enhance our skills.
 - 📫 How to reach me --> "manussicgupta@gmail.com"
